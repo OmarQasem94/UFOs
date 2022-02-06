@@ -9,17 +9,17 @@ The purpose of this analysis was develop a website that depicts a web-based dash
 
 ### Welcome to UFO Sightings!!!
 
-![Welcome](https://github.com/OmarQasem94/surfs_up/blob/main/Resources/Dec_Temp_Stats.PNG)
+![Welcome](https://github.com/OmarQasem94/UFOs/blob/main/static/images/Welcome.PNG)
  
 ### Unfiltered Table
 
-![Unfiltered](https://github.com/OmarQasem94/surfs_up/blob/main/Resources/Dec_Temp_Stats.PNG)
+![Unfiltered](https://github.com/OmarQasem94/UFOs/blob/main/static/images/Unfiltered.PNG)
 
 ### How the Table Interacts with User Input:
 
 By specifying a date, city, state, country, or shape the user can filter the UFO sighting data to inspect specific sightings. However, the user input must be in lower case and cannot include a space at the end of the text. Once the user provides the input the filter can be applied by pressing "Enter" or clicking outside the input box. Finally, to cancel the applied filters the user can click on the UFO sighting's in the top left corner of the website.
 
-![Filtered](https://github.com/OmarQasem94/surfs_up/blob/main/Resources/June_Temp_Prec_Stats.PNG)
+![Filtered](https://github.com/OmarQasem94/UFOs/blob/main/static/images/Filtered.PNG)
 
 
 ## **Summary**
