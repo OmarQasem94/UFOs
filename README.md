@@ -33,4 +33,4 @@ By specifying a date, city, state, country, or shape the user can filter the UFO
 
 1. Incorporate a trim function to remove any all spaces except those between words.
 
-@. Modify the date filter to take in two date to search within a range rather than specific dates. This is a problem because if the user does not know the exact date the use of the filter is limited.
+2. Modify the date filter to take in two date to search within a range rather than specific dates. This is a problem because if the user does not know the exact date the use of the filter is limited.
